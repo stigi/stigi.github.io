@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[4],{"4xue":function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),r=n.n(t),l=n("soUV");a.default=function(e){var a=e.data;return r.a.createElement(l.a,null,r.a.createElement("main",null,a.markdownRemark&&a.markdownRemark.html&&r.a.createElement("article",{dangerouslySetInnerHTML:{__html:a.markdownRemark.html}})))}}}]);
+//# sourceMappingURL=component---src-templates-page-template-tsx-3fba38adfbbe18e1e64b.js.map
